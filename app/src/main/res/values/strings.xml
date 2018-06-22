@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlInWithMVVM</string>
+    <string name="github_owner_avatar_icon">Github owner avatar icon</string>
+    <string name="repo_start_icon">Repo Start Icon</string>
 </resources>
